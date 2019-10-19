@@ -1,4 +1,4 @@
-import java.util.*;
+ import java.util.*;
 class patient_doctor
 {
 	String p_fname,p_lname,disease,outcome,blood_group,qf,doc_fname,d_name,doc_lname;
